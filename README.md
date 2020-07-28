@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [light-react-validator](https://github.com/thstamod/light-react-validator) and on [nyx-cms](https://github.com/thstamod/nyx-cms) as well.
 
-- 👨‍💻 All of my projects are available at [Here on github](https://github.com/thstamod)
+- 👨‍💻 All of my projects are available at [here on github](https://github.com/thstamod)
 
 - 📫 How to reach me **th.stamod@gmail.com**
 
