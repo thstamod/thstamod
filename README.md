@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, my name is Thanos Stamodimos</h1>
-<h3 align="center">A frontend developer from Greece who develops professionally and for fun as well !!</h3>
+<h3 align="center">I am a frontend developer from Greece who develops professionally and for fun as well !!</h3>
 
 - 🔭 I’m currently working on [light-react-validator](https://github.com/thstamod/light-react-validator) and on [nyx-cms](https://github.com/thstamod/nyx-cms) as well.
 
-- 👨‍💻 All of my projects are available at [https://github.com/thstamod](https://github.com/thstamod)
+- 👨‍💻 All of my projects are available at [Here on github](https://github.com/thstamod)
 
 - 📫 How to reach me **th.stamod@gmail.com**
 
