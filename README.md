@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Thanos Stamodimos</h1>
-<h3 align="center">I am a frontend developer from Greece who develops not only  professionally, also for fun as well!!</h3>
+<h3 align="center">I am a frontend developer from Greece who develops not only  professionally, also for fun!!</h3>
 
 - 🔭 I’m currently working on [light-react-validator](https://github.com/thstamod/light-react-validator) and on [nyx-cms](https://github.com/thstamod/nyx-cms) as well.
 
