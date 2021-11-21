@@ -11,7 +11,7 @@ If you are here this can be for 2 reasons
 
 I am 33 years old, I live in Athens Greece, I am married for 3 years to a wonderful woman, who supports me in any crazy idea I have in my mind. 😀😀
 
-### sow business stuff
+### now business stuff
 
 I have graduated from TEI of Athens with BSc. as informatics engineer. I work as a professional front-end developer since 2014. Additionally, in my mind, programming is a big puzzle, therefore I like to work on my side projects just for fun. As a result, I gain more experience as well. I enjoy working as part of a team because in my opinion more things can be achieved as a team rather than as individuals. Currently, I am working on vuejs project but to be honest I prefer reactjs.
 
