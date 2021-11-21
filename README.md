@@ -16,7 +16,7 @@ I am 33 years old, I live in Athens Greece, I am married for 3 years to a wonder
 I have graduated from TEI of Athens with BSc. as informatics engineer. I work as a professional front-end developer since 2014. Additionally, in my mind, programming is a big puzzle, therefore I like to work on my side projects just for fun. As a result, I gain more experience as well. I enjoy working as part of a team because in my opinion more things can be achieved as a team rather than as individuals. Currently, I am working on vuejs project but to be honest I prefer reactjs.
 
 Before the covid era, I was enjoying traveling around Europe and seeing different cultures.
-Also, I am a rookie tennis player and amateur photographer. 😊
+Also, I am runner, a rookie tennis player and amateur photographer. 😊
 
 ### projects
 If you like to contribute, feel free to do it!
