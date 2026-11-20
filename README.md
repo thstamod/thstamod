@@ -6,7 +6,7 @@
 
 🛠️ I enjoy experimenting, sharing projects as open source, and finding new uses for technology that others have given up on.
 
-<img src="assets/quests.svg" width="100%" alt="Current quests" />
+<img src="quests.svg" width="100%" alt="Current quests" />
 
 ### 🧠 [Chiron Core](https://github.com/thstamod/chiron-core)
 
@@ -26,7 +26,7 @@ I like taking things that seem destined for the bin and figuring out what else t
 
 📍 For example, giving an old GPS device a new purpose—a little tinkering, a little problem-solving, and another reason to keep interesting hardware.
 
-<img src="assets/explore.svg" width="100%" alt="Exploration log" />
+<img src="explore.svg" width="100%" alt="Exploration log" />
 
 🤖 LLM integration and structured outputs  
 🔎 Evidence validation and evaluation  
@@ -35,7 +35,7 @@ I like taking things that seem destined for the bin and figuring out what else t
 🔧 Repurposing old hardware  
 🌱 Building useful open-source software
 
-<img src="assets/connect.svg" width="100%" alt="Establish connection" />
+<img src="connect.svg" width="100%" alt="Establish connection" />
 
 <p align="center">
   🌐 <a href="https://thstamod.com/">Website</a> &nbsp; · &nbsp;
