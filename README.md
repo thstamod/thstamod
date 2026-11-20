@@ -1,30 +1,44 @@
-<h1 align="center">Hi 👋, Thanos here!!</h1>
-<h3 align="center">I would like to say a few things about me.</h3>
-If you are here this can be for 2 reasons
+<p align="center">
+  <img src="player-banner.svg" width="100%" alt="thstamod — Senior Software Engineer. Build, learn, repurpose." />
+</p>
 
- * Because I have made something interesting or..
- * You need more information about me.
+🧠 Building AI-powered tools and exploring how language models work.
 
-## So let's begin...
+🛠️ I enjoy experimenting, sharing projects as open source, and finding new uses for technology that others have given up on.
 
-### some demographics
+<img src="assets/quests.svg" width="100%" alt="Current quests" />
 
-I am 37 years old, I live in Athens Greece, I am married for 7 years to a wonderful woman, who supports me in any crazy idea I have in my mind. 😀😀
+### 🧠 [Chiron Core](https://github.com/thstamod/chiron-core)
 
-### now business stuff
+An open-source earnings research application combining structured LLM extraction, source-evidence validation, human review, and reproducible evaluation workflows.
 
-I have graduated from TEI of Athens with BSc. as informatics engineer. I work as a professional front-end developer since 2014. Additionally, in my mind, programming is a big puzzle, therefore I like to work on my side projects just for fun. As a result, I gain more experience as well. I enjoy working as part of a team because in my opinion more things can be achieved as a team rather than as individuals. Currently, I am working on vuejs project but to be honest I prefer reactjs.
+`TypeScript` `OpenAI API` `Node.js` `GraphQL` `Vue` `PostgreSQL` `Supabase`
 
-I enjoy traveling around Europe and seeing different cultures.
-Also, I am runner, a rookie tennis player and amateur photographer. 😊
+### 🔬 [Tiny Transformer](https://github.com/thstamod/tiny_tranfsormer)
 
-### projects
-If you like to contribute, feel free to do it!
+A small educational transformer built with PyTorch. Exploring tokenization, embeddings, attention, and training through an implementation I can inspect and understand.
 
-### tech stack 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="83" height="28"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" width="83" height="28"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="83" height="28"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="83" height="28"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="83" height="28"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width="83" height="28"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="83" height="28"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" width="83" height="28"> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" width="83" height="28"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="83" height="28"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" width="83" height="28"> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" width="83" height="28"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" width="83" height="28"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" width="83" height="28"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" width="83" height="28"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="83" height="28"> <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" width="83" height="28">
+`Python` `PyTorch` `Transformer fundamentals`
 
+### ♻️ Old hardware, new possibilities
 
-### how you can reach me
+I like taking things that seem destined for the bin and figuring out what else they could become.
 
-<a href="https://www.linkedin.com/in/stamodimos-thanos" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="83" height="28"  /></a> <a href="https://twitter.com/@stamodimos" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@stamodimos" width="83" height="28"/></a> <a href="mailto:th.stamod@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="83" height="28"/></a>
+📍 For example, giving an old GPS device a new purpose—a little tinkering, a little problem-solving, and another reason to keep interesting hardware.
+
+<img src="assets/explore.svg" width="100%" alt="Exploration log" />
+
+🤖 LLM integration and structured outputs  
+🔎 Evidence validation and evaluation  
+🧬 Understanding and training small language models  
+⚙️ Reproducible data pipelines  
+🔧 Repurposing old hardware  
+🌱 Building useful open-source software
+
+<img src="assets/connect.svg" width="100%" alt="Establish connection" />
+
+<p align="center">
+  🌐 <a href="https://thstamod.com/">Website</a> &nbsp; · &nbsp;
+  💼 <a href="https://www.linkedin.com/in/stamodimos-thanos">LinkedIn</a> &nbsp; · &nbsp;
+  ✉️ <a href="mailto:th.stamod@gmail.com">Email</a>
+</p>
